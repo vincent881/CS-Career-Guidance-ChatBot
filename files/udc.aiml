@@ -37,4 +37,11 @@
       <template>Interests in security or networks point towards a CyberSecurity career.</template>
   </category>
   
+  <category>
+      <pattern>^ DESIGN ^</pattern>
+      <template>If you love to design, a UI/UX role is definitely for you.</template>
+  </category>
+  
+  
+  
 </aiml>
