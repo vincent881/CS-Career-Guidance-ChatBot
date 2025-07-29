@@ -27,4 +27,14 @@
       <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
   </category>
   
+  <category>
+      <pattern>^ SECURITY ^</pattern>
+      <template>Interests in security or networks point towards a CyberSecurity career.</template>
+  </category>
+  
+  <category>
+      <pattern>^ NETWORKS ^</pattern>
+      <template>Interests in security or networks point towards a CyberSecurity career.</template>
+  </category>
+  
 </aiml>
