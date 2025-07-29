@@ -3,7 +3,7 @@
   
   <category>
       <pattern> ^ HELLO ^</pattern>
-      <template>Hello!</template>
+      <template>Hello! I am your Computer Science Career Advisor Bot. What are your top interests or strengths? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems)</template>
   </category>
   
 
@@ -23,7 +23,7 @@
   </category>
   
   <category>
-      <pattern>^ NUMBER ^</pattern>
+      <pattern>^ NUMBERS ^</pattern>
       <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
   </category>
   
