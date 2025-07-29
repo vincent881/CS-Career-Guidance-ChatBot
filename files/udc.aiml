@@ -1,55 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  
   <category>
       <pattern> ^ HELLO ^</pattern>
-      <template>Hello! I am your Computer Science Career Advisor Bot. What are your top interests or strengths? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems)</template>
+      <template>Hello! I am your Computer Science Career Advisor Bot. What are your top interests or strengths? 
+      (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems)</template>
   </category>
   
 
   <category>
       <pattern>^ PROGRAMMING ^</pattern>
-      <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
+      <template>With interests in math or programming, a Software Engineer role will be a great fit. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ MATH ^</pattern>
-      <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
+      <template>With interests in math or programming, a Software Engineer role will be a great fit. 
+      To see another role, type "Roles"</template>
   </category>
   
   <category>
       <pattern>^ DATA ^</pattern>
-      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
+      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ NUMBERS ^</pattern>
-      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
+      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ SECURITY ^</pattern>
-      <template>Interests in security or networks point towards a CyberSecurity career.</template>
+      <template>Interests in security or networks point towards a CyberSecurity career. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ NETWORKS ^</pattern>
-      <template>Interests in security or networks point towards a CyberSecurity career.</template>
+      <template>Interests in security or networks point towards a CyberSecurity career. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ DESIGN ^</pattern>
-      <template>If you love to design, a UI/UX role is definitely for you.</template>
+      <template>If you love to design, a UI/UX role is definitely for you. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ SERVERS ^</pattern>
-      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you.</template>
+      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you. 
+      To see other interests, type "Interests"</template>
   </category>
   
   <category>
       <pattern>^ SYSTEMS ^</pattern>
-      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you.</template>
+      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you. 
+      To see other interests, type "Interests"</template>
   </category>
   
+  <category>
+      <pattern>^ INTERESTS ^</pattern>
+      <template>What is another interest you have? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems)</template>
+  </category>
 </aiml>
