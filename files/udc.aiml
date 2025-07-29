@@ -4,4 +4,19 @@
     <pattern>*</pattern>
     <template>I have no answer for that.</template>
   </category>
+  
+  <category>
+      <pattern>HELLO ^</pattern>
+      <template>Hello!</template>
+  </category>
+  
+  <category>
+      <pattern>^ PROGRAMMING ^</pattern>
+      <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
+  </category>
+  
+  <category>
+      <pattern>^ MATH ^</pattern>
+      <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
+  </category>
 </aiml>
