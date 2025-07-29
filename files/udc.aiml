@@ -42,6 +42,14 @@
       <template>If you love to design, a UI/UX role is definitely for you.</template>
   </category>
   
+  <category>
+      <pattern>^ SERVERS ^</pattern>
+      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you.</template>
+  </category>
   
+  <category>
+      <pattern>^ SYSTEMS ^</pattern>
+      <template>If you you enjoy managing systems or servers, a System Administrator would be a good role for you.</template>
+  </category>
   
 </aiml>
