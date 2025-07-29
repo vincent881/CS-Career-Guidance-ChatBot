@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-  <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
-  </category>
   
   <category>
-      <pattern>HELLO ^</pattern>
+      <pattern> ^ HELLO ^</pattern>
       <template>Hello!</template>
   </category>
   
+
   <category>
       <pattern>^ PROGRAMMING ^</pattern>
       <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
@@ -19,4 +16,15 @@
       <pattern>^ MATH ^</pattern>
       <template>With interests in math or programming, a Software Engineer role will be a great fit.</template>
   </category>
+  
+  <category>
+      <pattern>^ DATA ^</pattern>
+      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
+  </category>
+  
+  <category>
+      <pattern>^ NUMBER ^</pattern>
+      <template>If you enjoy working with Data or Numbers, consider a Data Analyst role.</template>
+  </category>
+  
 </aiml>
