@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
+    <category>
+        <pattern>*</pattern>
+        <template>I didn't catch that.</template>
+    </category>
   <category>
       <pattern> ^ HELLO ^</pattern>
       <template>Hello! I am your Computer Science Career Advisor Bot. What are your top interests or strengths? 
