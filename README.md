@@ -27,3 +27,10 @@
 | "I like to cook" | That does not match the computer science interests. Would you like to rephrase with one? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems) |
 | "I enjoy math" | With interests in math or programming, a Software Engineer role will be a great fit. To see another role, type "Roles" |
 | "I want to work on servers" | If you enjoy managing systems or servers, a System Administrator would be a good role for you. To see other interests, type "Interests" |
+
+## D. Assess the strengths and weaknesses of the chatbot development environment and explain how they supported or impeded the construction of the chatbot.  
+### Strengths
+- AIML is a straightforward markup language that makes it easy to add or adjust features and patterns.
+- Pandorabots offers testing consoles, version control for AIML sets, and user analytics.
+- The bot can scale to thousands of users with minimal infrastructure concerns.
+
