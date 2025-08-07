@@ -33,4 +33,15 @@
 - AIML is a straightforward markup language that makes it easy to add or adjust features and patterns.
 - Pandorabots offers testing consoles, version control for AIML sets, and user analytics.
 - The bot can scale to thousands of users with minimal infrastructure concerns.
+###Weaknesses
+- AIML relies on exact or wildcard pattern matching. It cannot handle complex natural language understanding without an excessive number of patterns.
+- As categories get larger, ensuring there are no conflicting patterns becomes more difficult.
+- For features such as developer channels, more than two bots, and external services/APIs you need to pay a monthly subscription.
+- Pandorabots editor is not built for team-based code reviews or branching git workflows.
+
+## E. Explain how the chatbot will be monitored and maintained to improve the final user experience.  
+- I will examine logs for unrecognized inputs monthly, and add or refile AIML categories.
+- To improve the final user experience, I could add a feedback prompt (Was this suggestion useful? Yes/No) and use that to maintain the bot.
+- Keeping the AIML in a Git repository will allow to track changes, initial rollbacks, and support a team collaboration.
+- I can research new industry trends and roles and update the bot with these 
 
