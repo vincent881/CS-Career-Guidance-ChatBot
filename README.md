@@ -20,5 +20,6 @@
 - Inputs with minor typos or unexpected formats were included to evaluate if normalization is needed.
 - Cases like “I want to cook” confirm that the bot does not give misleading career advice.
 ### Examples of Training Cases  
-
+| User Input | Chatbot Response |
+| :---: | :---: |
        
