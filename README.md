@@ -22,4 +22,4 @@
 ### Examples of Training Cases  
 | User Input | Chatbot Response |
 | :---: | :---: |
-       
+| "I love numbers" | If you enjoy working with Data or Numbers, consider a Data Analyst role. To see other interests, type "Interests" |
