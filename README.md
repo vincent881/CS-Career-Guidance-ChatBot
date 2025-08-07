@@ -23,4 +23,7 @@
 | User Input | Chatbot Response |
 | :---: | :---: |
 | "I love numbers" | If you enjoy working with Data or Numbers, consider a Data Analyst role. To see other interests, type "Interests" |
-| sdasda | asdasd |
+| "Interests" | What is another interest you have? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems) |  
+| "I like to cook" | That does not match the computer science interests. Would you like to rephrase with one? (Programming, Math, Data, Numbers, Security, Networks, Design, Servers, Systems) |
+| "I enjoy math" | With interests in math or programming, a Software Engineer role will be a great fit. To see another role, type "Roles" |
+| "I want to work on servers" | If you enjoy managing systems or servers, a System Administrator would be a good role for you. To see other interests, type "Interests" |
